@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>张忠楠的博客</title>
+  
+  <subtitle>欢迎留言!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/zhangzn19/zhangzn19.github.io/"/>
+  <updated>2020-05-17T06:55:09.864Z</updated>
+  <id>https://github.com/zhangzn19/zhangzn19.github.io/</id>
+  
+  <author>
+    <name>张忠楠</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>生信分析-4</title>
+    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/05/11/43420.html"/>
+    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/05/11/43420.html</id>
+    <published>2020-05-11T02:50:30.951Z</published>
+    <updated>2020-05-17T06:55:09.864Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;RNA-seq-pipeline&quot;&gt;&lt;a href=&quot;#RNA-seq-pipeline&quot; class=&quot;headerlink&quot; title=&quot;RNA-seq pipeline&quot;&gt;&lt;/a&gt;RNA-seq pipeline&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="bioinfo" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/bioinfo/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>生信分析基础-1</title>
+    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/05/10/42118.html"/>
+    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/05/10/42118.html</id>
+    <published>2020-05-10T15:44:46.103Z</published>
+    <updated>2020-05-11T01:03:12.906Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="生信基础" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/%E7%94%9F%E4%BF%A1%E5%9F%BA%E7%A1%80/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>生信分析_3</title>
+    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/05/06/52217.html"/>
+    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/05/06/52217.html</id>
+    <published>2020-05-06T03:21:15.357Z</published>
+    <updated>2020-05-17T06:54:56.133Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Basic-analysis&quot;&gt;&lt;a href=&quot;#Basic-analysis&quot; class=&quot;headerlink&quot; title=&quot;Basic analysis&quot;&gt;&lt;/a&gt;Basic analysis&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="bioinfo" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/bioinfo/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python_进阶_24</title>
+    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/05/05/26593.html"/>
+    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/05/05/26593.html</id>
+    <published>2020-05-05T07:53:21.913Z</published>
+    <updated>2020-05-17T06:51:10.559Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;jupter-notebook-–-python&quot;&gt;&lt;a href=&quot;#jupter-notebook-–-python&quot; class=&quot;headerlink&quot; title=&quot;jupter notebook – python&quot;&gt;&lt;/a&gt;jupter notebook – python&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>R_基础1</title>
+    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/05/05/59159.html"/>
+    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/05/05/59159.html</id>
+    <published>2020-05-05T01:21:25.050Z</published>
+    <updated>2020-05-17T06:51:01.838Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+
+&lt;p&gt;详见&lt;a href=&quot;https://lulab2.gitbook.io/teaching/part-i.-basic-skills/3.r/3.1.r-basics&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;R
+        
+      
+    
+    </summary>
+    
+    
+      <category term="R" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/R/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>生信分析_2</title>
+    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/05/03/2872.html"/>
+    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/05/03/2872.html</id>
+    <published>2020-05-03T15:47:02.948Z</published>
+    <updated>2020-05-17T06:55:00.016Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Linux-Bash&quot;&gt;&lt;a href=&quot;#Linux-Bash&quot; class=&quot;headerlink&quot; title=&quot;Linux Bash&quot;&gt;&lt;/a&gt;Linux Bash&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;在介绍bash之前，需要先介绍它的起源——shell。shell俗称壳，它是指UNIX系统下的一个命令解析器；主要用于用户和系统的交互; bash，全称为Bourne-Again Shell。它是一个为GNU项目编写的Unix shell&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="bioinfo" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/bioinfo/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>生信分析_1</title>
+    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/05/03/2680.html"/>
+    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/05/03/2680.html</id>
+    <published>2020-05-03T07:34:35.470Z</published>
+    <updated>2020-05-17T06:55:02.627Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;practice-guide-linux&quot;&gt;&lt;a href=&quot;#practice-guide-linux&quot; class=&quot;headerlink&quot; title=&quot;practice guide - linux&quot;&gt;&lt;/a&gt;practice guide - linux&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;本章内容主要是学会用Linux的一些简单编程方法去查看GTF/GFF基因组注释文件的基本信息，并学会对文件中数据进行提取，利用提取到的数据计算特定feature（例如计算基因积累长度等）。&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="bioinfo" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/bioinfo/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>git</title>
+    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/30/43167.html"/>
+    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/30/43167.html</id>
+    <published>2020-04-30T11:14:23.130Z</published>
+    <updated>2020-05-17T06:54:42.086Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Mac上使用Git-Github&quot;&gt;&lt;a href=&quot;#Mac上使用Git-Github&quot; class=&quot;headerlink&quot; title=&quot;Mac上使用Git+Github&quot;&gt;&lt;/a&gt;Mac上使用Git+Github&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="git" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/git/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>vi编辑器</title>
+    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/30/53788.html"/>
+    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/30/53788.html</id>
+    <published>2020-04-30T07:12:00.076Z</published>
+    <updated>2020-05-17T06:50:54.431Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;vi-–-终端中的编辑器&quot;&gt;&lt;a href=&quot;#vi-–-终端中的编辑器&quot; class=&quot;headerlink&quot; title=&quot;vi – 终端中的编辑器&quot;&gt;&lt;/a&gt;vi – 终端中的编辑器&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="linux" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/linux/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python_进阶_23</title>
+    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/30/42400.html"/>
+    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/30/42400.html</id>
+    <published>2020-04-29T17:19:11.704Z</published>
+    <updated>2020-05-17T06:51:17.261Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;eval-函数&quot;&gt;&lt;a href=&quot;#eval-函数&quot; class=&quot;headerlink&quot; title=&quot;eval 函数&quot;&gt;&lt;/a&gt;eval 函数&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python_进阶_22</title>
+    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/30/25953.html"/>
+    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/30/25953.html</id>
+    <published>2020-04-29T16:35:30.014Z</published>
+    <updated>2020-05-17T06:51:22.383Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;文件&quot;&gt;&lt;a href=&quot;#文件&quot; class=&quot;headerlink&quot; title=&quot;文件&quot;&gt;&lt;/a&gt;文件&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python_进阶_21</title>
+    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/25633.html"/>
+    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/25633.html</id>
+    <published>2020-04-29T15:08:46.942Z</published>
+    <updated>2020-05-17T06:56:11.882Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;制作发布压缩包&quot;&gt;&lt;a href=&quot;#制作发布压缩包&quot; class=&quot;headerlink&quot; title=&quot;制作发布压缩包&quot;&gt;&lt;/a&gt;制作发布压缩包&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python_进阶_20</title>
+    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/42208.html"/>
+    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/42208.html</id>
+    <published>2020-04-29T14:34:13.702Z</published>
+    <updated>2020-05-17T06:51:30.592Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;包-package&quot;&gt;&lt;a href=&quot;#包-package&quot; class=&quot;headerlink&quot; title=&quot;包(package)&quot;&gt;&lt;/a&gt;包(package)&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python_进阶_19</title>
+    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/21024.html"/>
+    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/21024.html</id>
+    <published>2020-04-29T13:12:19.896Z</published>
+    <updated>2020-05-17T06:51:35.049Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;模块&quot;&gt;&lt;a href=&quot;#模块&quot; class=&quot;headerlink&quot; title=&quot;模块&quot;&gt;&lt;/a&gt;模块&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python_进阶_18</title>
+    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/37601.html"/>
+    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/37601.html</id>
+    <published>2020-04-29T06:17:22.439Z</published>
+    <updated>2020-05-17T06:51:39.186Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;异常&quot;&gt;&lt;a href=&quot;#异常&quot; class=&quot;headerlink&quot; title=&quot;异常&quot;&gt;&lt;/a&gt;异常&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python_进阶_17</title>
+    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/38561.html"/>
+    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/38561.html</id>
+    <published>2020-04-29T04:49:21.449Z</published>
+    <updated>2020-05-17T06:51:45.537Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;单例&quot;&gt;&lt;a href=&quot;#单例&quot; class=&quot;headerlink&quot; title=&quot;单例&quot;&gt;&lt;/a&gt;单例&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python_进阶_16</title>
+    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/22112.html"/>
+    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/22112.html</id>
+    <published>2020-04-28T16:02:18.115Z</published>
+    <updated>2020-05-17T06:51:49.849Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;方法综合演练&quot;&gt;&lt;a href=&quot;#方法综合演练&quot; class=&quot;headerlink&quot; title=&quot;方法综合演练&quot;&gt;&lt;/a&gt;方法综合演练&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python_进阶_15</title>
+    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/28/22304.html"/>
+    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/28/22304.html</id>
+    <published>2020-04-28T15:58:50.730Z</published>
+    <updated>2020-05-17T06:51:54.110Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;静态方法&quot;&gt;&lt;a href=&quot;#静态方法&quot; class=&quot;headerlink&quot; title=&quot;静态方法&quot;&gt;&lt;/a&gt;静态方法&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python_进阶_14</title>
+    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/28/38881.html"/>
+    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/28/38881.html</id>
+    <published>2020-04-28T14:58:42.627Z</published>
+    <updated>2020-05-17T06:51:59.897Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;类方法&quot;&gt;&lt;a href=&quot;#类方法&quot; class=&quot;headerlink&quot; title=&quot;类方法&quot;&gt;&lt;/a&gt;类方法&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>python_进阶_13</title>
+    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/28/21920.html"/>
+    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/28/21920.html</id>
+    <published>2020-04-28T08:41:10.130Z</published>
+    <updated>2020-05-17T06:52:03.895Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;多态&quot;&gt;&lt;a href=&quot;#多态&quot; class=&quot;headerlink&quot; title=&quot;多态&quot;&gt;&lt;/a&gt;多态&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+    
+    
+  </entry>
+  
+</feed>
