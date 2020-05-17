@@ -1,15 +1,17 @@
 /*全局基础样式*/
 /*小屏幕下(手机类)的样式*/
-@media only screen and (max-width: 601px) {
+@media only screen and (min-width: 993px) {
     .container {
-        width: 200%;
+        width: 90%;
+        max-width: 1125px;
     }
 }
 
 /*中等屏幕下(平板类)的样式*/
-@media only screen and (min-width: 600px) and (max-width: 992px) {
+@media only screen and (min-width: 993px) {
     .container {
-        width: 200%;
+        width: 90%;
+        max-width: 1125px;
     }
 }
 
