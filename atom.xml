@@ -5,9 +5,9 @@
   <subtitle>欢迎留言!</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://github.com/zhangzn19/zhangzn19.github.io/"/>
-  <updated>2020-05-17T06:55:09.864Z</updated>
-  <id>https://github.com/zhangzn19/zhangzn19.github.io/</id>
+  <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/"/>
+  <updated>2020-05-17T07:20:57.147Z</updated>
+  <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/</id>
   
   <author>
     <name>张忠楠</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>生信分析-4</title>
-    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/05/11/43420.html"/>
-    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/05/11/43420.html</id>
+    <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/05/11/43420.html"/>
+    <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/05/11/43420.html</id>
     <published>2020-05-11T02:50:30.951Z</published>
-    <updated>2020-05-17T06:55:09.864Z</updated>
+    <updated>2020-05-17T07:20:57.147Z</updated>
     
     <summary type="html">
     
@@ -30,17 +30,17 @@
     </summary>
     
     
-      <category term="bioinfo" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/bioinfo/"/>
+      <category term="bioinfo" scheme="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/categories/bioinfo/"/>
     
     
   </entry>
   
   <entry>
     <title>生信分析基础-1</title>
-    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/05/10/42118.html"/>
-    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/05/10/42118.html</id>
+    <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/05/10/42118.html"/>
+    <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/05/10/42118.html</id>
     <published>2020-05-10T15:44:46.103Z</published>
-    <updated>2020-05-11T01:03:12.906Z</updated>
+    <updated>2020-05-17T07:20:57.148Z</updated>
     
     <summary type="html">
     
@@ -55,17 +55,17 @@
     </summary>
     
     
-      <category term="生信基础" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/%E7%94%9F%E4%BF%A1%E5%9F%BA%E7%A1%80/"/>
+      <category term="生信基础" scheme="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/categories/%E7%94%9F%E4%BF%A1%E5%9F%BA%E7%A1%80/"/>
     
     
   </entry>
   
   <entry>
     <title>生信分析_3</title>
-    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/05/06/52217.html"/>
-    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/05/06/52217.html</id>
+    <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/05/06/52217.html"/>
+    <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/05/06/52217.html</id>
     <published>2020-05-06T03:21:15.357Z</published>
-    <updated>2020-05-17T06:54:56.133Z</updated>
+    <updated>2020-05-17T07:20:57.146Z</updated>
     
     <summary type="html">
     
@@ -74,17 +74,17 @@
     </summary>
     
     
-      <category term="bioinfo" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/bioinfo/"/>
+      <category term="bioinfo" scheme="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/categories/bioinfo/"/>
     
     
   </entry>
   
   <entry>
     <title>python_进阶_24</title>
-    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/05/05/26593.html"/>
-    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/05/05/26593.html</id>
+    <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/05/05/26593.html"/>
+    <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/05/05/26593.html</id>
     <published>2020-05-05T07:53:21.913Z</published>
-    <updated>2020-05-17T06:51:10.559Z</updated>
+    <updated>2020-05-17T07:20:57.140Z</updated>
     
     <summary type="html">
     
@@ -93,17 +93,17 @@
     </summary>
     
     
-      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+      <category term="python" scheme="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/categories/python/"/>
     
     
   </entry>
   
   <entry>
     <title>R_基础1</title>
-    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/05/05/59159.html"/>
-    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/05/05/59159.html</id>
+    <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/05/05/59159.html"/>
+    <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/05/05/59159.html</id>
     <published>2020-05-05T01:21:25.050Z</published>
-    <updated>2020-05-17T06:51:01.838Z</updated>
+    <updated>2020-05-17T07:20:57.096Z</updated>
     
     <summary type="html">
     
@@ -120,17 +120,17 @@
     </summary>
     
     
-      <category term="R" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/R/"/>
+      <category term="R" scheme="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/categories/R/"/>
     
     
   </entry>
   
   <entry>
     <title>生信分析_2</title>
-    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/05/03/2872.html"/>
-    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/05/03/2872.html</id>
+    <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/05/03/2872.html"/>
+    <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/05/03/2872.html</id>
     <published>2020-05-03T15:47:02.948Z</published>
-    <updated>2020-05-17T06:55:00.016Z</updated>
+    <updated>2020-05-17T07:20:57.145Z</updated>
     
     <summary type="html">
     
@@ -141,17 +141,17 @@
     </summary>
     
     
-      <category term="bioinfo" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/bioinfo/"/>
+      <category term="bioinfo" scheme="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/categories/bioinfo/"/>
     
     
   </entry>
   
   <entry>
     <title>生信分析_1</title>
-    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/05/03/2680.html"/>
-    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/05/03/2680.html</id>
+    <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/05/03/2680.html"/>
+    <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/05/03/2680.html</id>
     <published>2020-05-03T07:34:35.470Z</published>
-    <updated>2020-05-17T06:55:02.627Z</updated>
+    <updated>2020-05-17T07:20:57.144Z</updated>
     
     <summary type="html">
     
@@ -162,17 +162,17 @@
     </summary>
     
     
-      <category term="bioinfo" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/bioinfo/"/>
+      <category term="bioinfo" scheme="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/categories/bioinfo/"/>
     
     
   </entry>
   
   <entry>
     <title>git</title>
-    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/30/43167.html"/>
-    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/30/43167.html</id>
+    <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/30/43167.html"/>
+    <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/30/43167.html</id>
     <published>2020-04-30T11:14:23.130Z</published>
-    <updated>2020-05-17T06:54:42.086Z</updated>
+    <updated>2020-05-17T07:20:57.097Z</updated>
     
     <summary type="html">
     
@@ -181,17 +181,17 @@
     </summary>
     
     
-      <category term="git" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/git/"/>
+      <category term="git" scheme="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/categories/git/"/>
     
     
   </entry>
   
   <entry>
     <title>vi编辑器</title>
-    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/30/53788.html"/>
-    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/30/53788.html</id>
+    <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/30/53788.html"/>
+    <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/30/53788.html</id>
     <published>2020-04-30T07:12:00.076Z</published>
-    <updated>2020-05-17T06:50:54.431Z</updated>
+    <updated>2020-05-17T07:20:57.141Z</updated>
     
     <summary type="html">
     
@@ -200,17 +200,17 @@
     </summary>
     
     
-      <category term="linux" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/linux/"/>
+      <category term="linux" scheme="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/categories/linux/"/>
     
     
   </entry>
   
   <entry>
     <title>python_进阶_23</title>
-    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/30/42400.html"/>
-    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/30/42400.html</id>
+    <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/30/42400.html"/>
+    <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/30/42400.html</id>
     <published>2020-04-29T17:19:11.704Z</published>
-    <updated>2020-05-17T06:51:17.261Z</updated>
+    <updated>2020-05-17T07:20:57.139Z</updated>
     
     <summary type="html">
     
@@ -219,17 +219,17 @@
     </summary>
     
     
-      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+      <category term="python" scheme="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/categories/python/"/>
     
     
   </entry>
   
   <entry>
     <title>python_进阶_22</title>
-    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/30/25953.html"/>
-    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/30/25953.html</id>
+    <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/30/25953.html"/>
+    <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/30/25953.html</id>
     <published>2020-04-29T16:35:30.014Z</published>
-    <updated>2020-05-17T06:51:22.383Z</updated>
+    <updated>2020-05-17T07:20:57.138Z</updated>
     
     <summary type="html">
     
@@ -238,17 +238,17 @@
     </summary>
     
     
-      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+      <category term="python" scheme="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/categories/python/"/>
     
     
   </entry>
   
   <entry>
     <title>python_进阶_21</title>
-    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/25633.html"/>
-    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/25633.html</id>
+    <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/29/25633.html"/>
+    <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/29/25633.html</id>
     <published>2020-04-29T15:08:46.942Z</published>
-    <updated>2020-05-17T06:56:11.882Z</updated>
+    <updated>2020-05-17T07:20:57.137Z</updated>
     
     <summary type="html">
     
@@ -257,17 +257,17 @@
     </summary>
     
     
-      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+      <category term="python" scheme="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/categories/python/"/>
     
     
   </entry>
   
   <entry>
     <title>python_进阶_20</title>
-    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/42208.html"/>
-    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/42208.html</id>
+    <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/29/42208.html"/>
+    <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/29/42208.html</id>
     <published>2020-04-29T14:34:13.702Z</published>
-    <updated>2020-05-17T06:51:30.592Z</updated>
+    <updated>2020-05-17T07:20:57.137Z</updated>
     
     <summary type="html">
     
@@ -276,17 +276,17 @@
     </summary>
     
     
-      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+      <category term="python" scheme="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/categories/python/"/>
     
     
   </entry>
   
   <entry>
     <title>python_进阶_19</title>
-    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/21024.html"/>
-    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/21024.html</id>
+    <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/29/21024.html"/>
+    <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/29/21024.html</id>
     <published>2020-04-29T13:12:19.896Z</published>
-    <updated>2020-05-17T06:51:35.049Z</updated>
+    <updated>2020-05-17T07:20:57.136Z</updated>
     
     <summary type="html">
     
@@ -295,17 +295,17 @@
     </summary>
     
     
-      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+      <category term="python" scheme="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/categories/python/"/>
     
     
   </entry>
   
   <entry>
     <title>python_进阶_18</title>
-    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/37601.html"/>
-    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/37601.html</id>
+    <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/29/37601.html"/>
+    <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/29/37601.html</id>
     <published>2020-04-29T06:17:22.439Z</published>
-    <updated>2020-05-17T06:51:39.186Z</updated>
+    <updated>2020-05-17T07:20:57.136Z</updated>
     
     <summary type="html">
     
@@ -314,17 +314,17 @@
     </summary>
     
     
-      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+      <category term="python" scheme="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/categories/python/"/>
     
     
   </entry>
   
   <entry>
     <title>python_进阶_17</title>
-    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/38561.html"/>
-    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/38561.html</id>
+    <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/29/38561.html"/>
+    <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/29/38561.html</id>
     <published>2020-04-29T04:49:21.449Z</published>
-    <updated>2020-05-17T06:51:45.537Z</updated>
+    <updated>2020-05-17T07:20:57.135Z</updated>
     
     <summary type="html">
     
@@ -333,17 +333,17 @@
     </summary>
     
     
-      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+      <category term="python" scheme="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/categories/python/"/>
     
     
   </entry>
   
   <entry>
     <title>python_进阶_16</title>
-    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/22112.html"/>
-    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/29/22112.html</id>
+    <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/29/22112.html"/>
+    <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/29/22112.html</id>
     <published>2020-04-28T16:02:18.115Z</published>
-    <updated>2020-05-17T06:51:49.849Z</updated>
+    <updated>2020-05-17T07:20:57.134Z</updated>
     
     <summary type="html">
     
@@ -352,17 +352,17 @@
     </summary>
     
     
-      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+      <category term="python" scheme="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/categories/python/"/>
     
     
   </entry>
   
   <entry>
     <title>python_进阶_15</title>
-    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/28/22304.html"/>
-    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/28/22304.html</id>
+    <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/28/22304.html"/>
+    <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/28/22304.html</id>
     <published>2020-04-28T15:58:50.730Z</published>
-    <updated>2020-05-17T06:51:54.110Z</updated>
+    <updated>2020-05-17T07:20:57.134Z</updated>
     
     <summary type="html">
     
@@ -371,17 +371,17 @@
     </summary>
     
     
-      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+      <category term="python" scheme="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/categories/python/"/>
     
     
   </entry>
   
   <entry>
     <title>python_进阶_14</title>
-    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/28/38881.html"/>
-    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/28/38881.html</id>
+    <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/28/38881.html"/>
+    <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/28/38881.html</id>
     <published>2020-04-28T14:58:42.627Z</published>
-    <updated>2020-05-17T06:51:59.897Z</updated>
+    <updated>2020-05-17T07:20:57.133Z</updated>
     
     <summary type="html">
     
@@ -390,17 +390,17 @@
     </summary>
     
     
-      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+      <category term="python" scheme="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/categories/python/"/>
     
     
   </entry>
   
   <entry>
     <title>python_进阶_13</title>
-    <link href="https://github.com/zhangzn19/zhangzn19.github.io/2020/04/28/21920.html"/>
-    <id>https://github.com/zhangzn19/zhangzn19.github.io/2020/04/28/21920.html</id>
+    <link href="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/28/21920.html"/>
+    <id>https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/2020/04/28/21920.html</id>
     <published>2020-04-28T08:41:10.130Z</published>
-    <updated>2020-05-17T06:52:03.895Z</updated>
+    <updated>2020-05-17T07:20:57.133Z</updated>
     
     <summary type="html">
     
@@ -409,7 +409,7 @@
     </summary>
     
     
-      <category term="python" scheme="https://github.com/zhangzn19/zhangzn19.github.io/categories/python/"/>
+      <category term="python" scheme="https://cdn.jsdelivr.net/gh/zhangzn19/zhangzn19.github.io/categories/python/"/>
     
     
   </entry>
