@@ -2,7 +2,7 @@
 /*小屏幕下(手机类)的样式*/
 @media only screen and (min-width: 993px) {
     .container {
-        width: 90%;
+        width: 100%;
         max-width: 1125px;
     }
 }
@@ -10,7 +10,7 @@
 /*中等屏幕下(平板类)的样式*/
 @media only screen and (min-width: 993px) {
     .container {
-        width: 90%;
+        width: 95%;
         max-width: 1125px;
     }
 }
